@@ -1,0 +1,42 @@
+﻿  sample.cpp
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(291,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(416,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(855,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(871,51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(873,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(875,53): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(877,52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(890,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(891,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(897,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(898,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(905,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(906,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(912,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(913,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(920,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(921,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(927,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(928,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(935,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(936,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(942,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(943,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(950,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(951,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(957,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(958,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(965,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(966,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(972,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(973,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(980,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(981,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(987,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(988,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(995,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(996,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(1002,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\sample.cpp(1003,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\OSU\Graphics\Project 2 Fall 22\SampleWindows\SampleFreeGlut2019\Debug\Sample.exe
