@@ -1,0 +1,23 @@
+﻿  sample.cpp
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(386,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(393,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(404,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(405,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(424,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(425,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(437,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(438,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(676,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1944,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1947,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1950,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1968,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1971,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1974,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1987,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1991,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(1995,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(2168,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\sample.cpp(2188,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+sample.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> C:\OSU\Graphics\Project 4 Fall 22\Lighting Fall 22\Debug\Sample.exe
